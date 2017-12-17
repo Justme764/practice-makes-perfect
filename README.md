@@ -1,3 +1,8 @@
+# Practicing editing!
+My name is JustMe
+I have 20yrs of IT Skills hardware side 
+Now I want to learn the CODE side.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Justme764/practice-makes-perfect/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
